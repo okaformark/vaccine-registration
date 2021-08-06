@@ -25,3 +25,4 @@ Is a syntax for creating and modifying database objects such as tables, indices,
 statements are similar to a computer programming language for defining data structures, especially database schemas. In This project the syntax for table creation, data integrity constraints,table altering, and updating features will be illustrated.
 
 ![vaccine-registration schema](https://raw.githubusercontent.com/okaformark/vaccine-registration/main/vaccination_registration%20(1).png)
+                        > Figure 1: The Database Schema for Covid-19 Vaccination Registration Database
